@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TonyTheShrimp
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning c++ and algorithm.
-- 📫 How to reach me tony.ma.2006@outlook.com
+- 🌱 I’m currently learning AI agents
+- 📫 How to reach me wentao.ma.261112@gmail.com
 
 <!---
 TonyTheShrimp/TonyTheShrimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
